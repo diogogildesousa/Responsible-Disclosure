@@ -32,8 +32,6 @@
 
 | *Responsible Disclosure*
 
-**Classificação**
-
 
 
 ---
