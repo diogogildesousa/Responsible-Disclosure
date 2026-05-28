@@ -4,15 +4,15 @@
 
 ### Página 1
 
-**Relatório de Segurança [EMPRESA REDACTADA]**
+Relatório de Segurança [EMPRESA REDACTADA]**
 
-**RELATÓRIO DE SEGURANÇA**
+RELATÓRIO DE SEGURANÇA**
 
-**Responsible Disclosure**
+Responsible Disclosure**
 
-**[EMPRESA REDACTADA]**
+[EMPRESA REDACTADA]**
 
-**[domínio-redactado]**
+[domínio-redactado]**
 
 | Campo | Informação |
 | :--- | :--- |
