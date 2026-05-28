@@ -1,6 +1,6 @@
 ---
 
-# Relatório_Seguranca_Responsible_Disclosure.pdf
+# Relatório de Segurança - Responsible Disclosure
 
 ### Página 1
 
@@ -14,25 +14,12 @@
 
 **[domínio-redactado]**
 
-**Data**
-
-| 3 de março de 2026
-
-**Autor**
-
-| Diogo Sousa
-
-**Contacto**
-
-| [REDACTADO]
-
-| [REDACTADO]
-
-**Tipo**
-
-| *Responsible Disclosure*
-
-
+| Campo | Informação |
+| :--- | :--- |
+| **Data** | 3 de março de 2026 |
+| **Autor** | Diogo Sousa |
+| **Contacto** | [REDACTADO]<br>[REDACTADO] |
+| **Tipo** | *Responsible Disclosure* |
 
 ---
 
